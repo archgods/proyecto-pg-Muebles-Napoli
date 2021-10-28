@@ -1,0 +1,24 @@
+{
+  "name": "NApoli Muebles",
+  "homepage": "",
+  "authors": [
+    "Rythmics Code"
+  ],
+  "description": "Somos una empresa especializada en ayudar al cliente en la personalización de diferentes mobiliarios, con materiales de vanguardia e innovación para cualquier tipo de espacio",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Land.io",
+    "UI-kit",
+    "design"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "bower.json"
+  ]
+}
